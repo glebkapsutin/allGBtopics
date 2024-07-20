@@ -1,0 +1,14 @@
+/Users/glebkapustin/Downloads/testcods/bin/Debug/net8.0/testcods
+/Users/glebkapustin/Downloads/testcods/bin/Debug/net8.0/testcods.deps.json
+/Users/glebkapustin/Downloads/testcods/bin/Debug/net8.0/testcods.runtimeconfig.json
+/Users/glebkapustin/Downloads/testcods/bin/Debug/net8.0/testcods.dll
+/Users/glebkapustin/Downloads/testcods/bin/Debug/net8.0/testcods.pdb
+/Users/glebkapustin/Downloads/testcods/obj/Debug/net8.0/testcods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/glebkapustin/Downloads/testcods/obj/Debug/net8.0/testcods.AssemblyInfoInputs.cache
+/Users/glebkapustin/Downloads/testcods/obj/Debug/net8.0/testcods.AssemblyInfo.cs
+/Users/glebkapustin/Downloads/testcods/obj/Debug/net8.0/testcods.csproj.CoreCompileInputs.cache
+/Users/glebkapustin/Downloads/testcods/obj/Debug/net8.0/testcods.dll
+/Users/glebkapustin/Downloads/testcods/obj/Debug/net8.0/refint/testcods.dll
+/Users/glebkapustin/Downloads/testcods/obj/Debug/net8.0/testcods.pdb
+/Users/glebkapustin/Downloads/testcods/obj/Debug/net8.0/testcods.genruntimeconfig.cache
+/Users/glebkapustin/Downloads/testcods/obj/Debug/net8.0/ref/testcods.dll
